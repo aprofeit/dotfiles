@@ -26,3 +26,8 @@ highlight clear SignColumn
 map <C-t> :CommandT<CR>
 map <C-n> :NERDTreeToggle<CR>
 
+autocmd FileType go setlocal shiftwidth=4 tabstop=4 noexpandtab
+let g:go_disable_autoinstall = 1
+
+nnoremap <S-h> gT
+nnoremap <S-l> gt

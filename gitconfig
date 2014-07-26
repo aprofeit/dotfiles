@@ -1,5 +1,6 @@
 [core]
   editor = vim
+	excludesfile = /home/vagrant/.gitignore_global
 [alias]
   ci = commit
   co = checkout

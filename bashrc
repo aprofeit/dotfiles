@@ -113,3 +113,8 @@ GIT_PS1_SHOWDIRTYSTATE=true
 PS1='[\u]\033[01;34m\] \w \[\033[31m\]$(__git_ps1 "(%s) ")\[\033[37m\]\[\033[00m\]'
 
 stty -ixon
+
+alias bake="bundle exec rake"
+
+export GOPATH="/home/vagrant/code/go"
+export PATH=$PATH:$GOPATH/bin
