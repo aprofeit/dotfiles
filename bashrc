@@ -118,3 +118,5 @@ alias bake="bundle exec rake"
 
 export GOPATH="/home/vagrant/code/go"
 export PATH=$PATH:$GOPATH/bin
+
+alias tmux="tmux -2"
