@@ -116,8 +116,12 @@ stty -ixon
 
 alias bake="bundle exec rake"
 
-export GOPATH="/home/vagrant/code/go"
+export GOPATH="/home/vagrant/workspace/go"
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:~/bin
+export PATH=$PATH:/usr/local/go/bin
 
 alias tmux="tmux -2"
+alias godev="cd ~/workspace/go/src/"
+alias git-clean="git branch --merged | grep -v \"\*\" | xargs -n 1 git branch -d"
+alias ls="ls -lah"
