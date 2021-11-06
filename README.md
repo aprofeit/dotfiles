@@ -4,11 +4,11 @@ This is a reference for myself or whoever may find it useful for the way I set u
 
 # Checklist
 - [x] install `brew`[^1]
-- [x] create ssh key and add to github
-	[Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-- [x] install https://github.com/christoomey/vim-tmux-navigator
-- [x] install `tmux`
-  - [ ] solarized colors
+- [x] create ssh key and add to github[^2]
+- [x] install `vim-tmux-navigator`[^3]
+- [x] install `iterm2`[^4]
+- [x] install `brew install tmux``
+  - [x] change profile to use solarized colors
 - [ ] ohmyzsh.sh
 - [ ] vim
   - [ ] nerd tree
@@ -29,3 +29,6 @@ This is a reference for myself or whoever may find it useful for the way I set u
 
 # Resources
 [^1]: [Homebrew](https://brew.sh)
+[^2]: [Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[^3]: [Github link to repo](https://github.com/christoomey/vim-tmux-navigator)
+[^4]: [iTerm2 website](https://iterm2.com)
