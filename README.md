@@ -3,7 +3,7 @@
 This is a reference for myself or whoever may find it useful for the way I set up my development tools on a fresh install of macOS or a new laptop. The steps outlined were last run through on Nov 6 2021 running macOS 12.0 on a laptop with an Apple M1 Max ship.
 
 # Checklist
-- [x] install `brew` [!1]
+- [x] install `brew` [^1]
 	[Homebrew](https://brew.sh)
 - [x] create ssh key and add to github
 	[Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
@@ -29,4 +29,4 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [ ] cool looking prompt
 
 # Resources
-[!1]: [Homebrew](https://brew.sh)
+[^1]: [Homebrew](https://brew.sh)
