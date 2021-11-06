@@ -4,9 +4,9 @@ This is a reference for myself or whoever may find it useful for the way I set u
 
 # Checklist
 - [x] install brew
-	(Homebrew)[https://brew.sh)
+	[Homebrew](https://brew.sh)
 - [x] create ssh key and add to github
-	(Github guide)[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent]
+	[Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [x] install https://github.com/christoomey/vim-tmux-navigator
 - [x] install tmux
   - [ ] solarized colors
