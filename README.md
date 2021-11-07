@@ -14,10 +14,9 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [ ] vim
   - [x] create `~/.tmp/` directory for vim
   - [x] install vim-tmux-navigator [^8]
-  - [ ] nerd tree
+  - [ ] nerdtree [^9]
   - [ ] solarized theme
-  - [ ] install ctrl-p [^9]
-  - [ ] install nerdtree [^10]
+  - [ ] install ctrl-p [^10]
 - [ ] ruby
   - [ ] install chruby
   - [ ] install ruby-install
@@ -37,3 +36,4 @@ This is a reference for myself or whoever may find it useful for the way I set u
 [^7]: [https://github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
 [^8]: [https://github.com/christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 [^9]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
+[^10]: [https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
