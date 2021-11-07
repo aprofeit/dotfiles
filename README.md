@@ -14,7 +14,7 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [ ] vim
   - [x] create `~/.tmp/` directory for vim
   - [x] install vim-tmux-navigator [^8]
-  - [ ] nerdtree [^9]
+  - [x] nerdtree [^9]
   - [ ] solarized theme
   - [ ] install ctrl-p [^10]
 - [ ] ruby
