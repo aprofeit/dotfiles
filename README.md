@@ -17,14 +17,14 @@ This is a reference for myself or whoever may find it useful for the way I set u
   - [x] nerdtree [^8]
   - [x] solarized theme [^9]
   - [x] install ctrl-p [^10]
-- [ ] ruby
-  - [ ] install chruby
-  - [ ] install ruby-install
-  - [ ] install latest ruby
-- [ ] golang
-    - [ ] install gvm
-    - [ ] install latest go
-- [ ] symlink dotfiles from this repo into homefolder
+- [x] ruby
+  - [x] install chruby
+  - [x] install ruby-install
+  - [x] install latest ruby
+- [x] golang
+    - [x] install gvm
+    - [x] install latest go
+- [x] symlink dotfiles from this repo into homefolder, for example, from homefolder: `ln -s src/github.com/aprofeit/dotfiles/zshrc .zshrc`
 
 # Resources
 [^1]: [Homebrew](https://brew.sh)
