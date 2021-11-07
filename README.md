@@ -10,12 +10,12 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [x] install `brew install tmux`
   - [x] change profile to use solarized colors in settings
 - [x] ohmyzsh.sh [^5]
-    [x] - install powerline fonts [^6]
+    - [x] install powerline fonts [^6]
 - [ ] vim
   - [x] create `~/.tmp/` directory for vim
   - [x] install vim-tmux-navigator [^8]
-  - [ ] solarized theme
   - [ ] nerd tree
+  - [ ] solarized theme
   - [ ] install ctrl-p [^9]
   - [ ] install nerdtree [^10]
 - [ ] ruby

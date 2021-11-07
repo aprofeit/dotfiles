@@ -4,7 +4,6 @@ syntax on
 
 autocmd QuickFixCmdPost [^l]* nested cwindow
 autocmd QuickFixCmdPost    l* nested lwindow
-
 set autoread
 au FocusGained,BufEnter * :checktime
 
@@ -42,11 +41,6 @@ let g:airline_theme='solarized'
 let g:airline_solarized_bg='dark'
 let g:airline_powerline_fonts = 1
 let g:solarized_termtrans = 1
-
-" syntastic
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*
 
 let g:tsuquyomi_disable_default_mappings = 1
 
