@@ -3,10 +3,10 @@
 This is a reference for myself or whoever may find it useful for the way I set up my development tools on a fresh install of macOS or a new laptop. The steps outlined were last run through on Nov 6 2021 running macOS 12.0 on a laptop with an Apple M1 Max chip.
 
 # Checklist
-- [x] install `brew`[^1]
-- [x] create ssh key and add to github[^2]
-- [x] install `vim-tmux-navigator`[^3]
-- [x] install `iterm2`[^4]
+- [x] install `brew` [^1]
+- [x] create ssh key and add to github [^2]
+- [x] install `vim-tmux-navigator` [^3]
+- [x] install `iterm2` [^4]
 - [x] install `brew install tmux`
   - [x] change profile to use solarized colors in settings
 - [x] ohmyzsh.sh [^5]
@@ -16,7 +16,7 @@ This is a reference for myself or whoever may find it useful for the way I set u
   - [x] install vim-tmux-navigator [^7]
   - [x] nerdtree [^8]
   - [x] solarized theme [^9]
-  - [ ] install ctrl-p [^10]
+  - [x] install ctrl-p [^10]
 - [ ] ruby
   - [ ] install chruby
   - [ ] install ruby-install
