@@ -21,7 +21,7 @@ set directory=~/.tmp
 set t_Co=256
 
 set background=dark
-" colorscheme solarized
+colorscheme solarized
 
 let g:ctrlp_map = '<c-t>'
 let g:ctrlp_cmd = 'CtrlP'

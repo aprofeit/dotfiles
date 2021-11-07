@@ -13,9 +13,9 @@ This is a reference for myself or whoever may find it useful for the way I set u
     - [x] install powerline fonts [^6]
 - [ ] vim
   - [x] create `~/.tmp/` directory for vim
-  - [x] install vim-tmux-navigator [^8]
-  - [x] nerdtree [^9]
-  - [ ] solarized theme
+  - [x] install vim-tmux-navigator [^7]
+  - [x] nerdtree [^8]
+  - [x] solarized theme [^9]
   - [ ] install ctrl-p [^10]
 - [ ] ruby
   - [ ] install chruby
@@ -32,8 +32,8 @@ This is a reference for myself or whoever may find it useful for the way I set u
 [^3]: [Github link to repo](https://github.com/christoomey/vim-tmux-navigator)
 [^4]: [iTerm2 website](https://iterm2.com)
 [^5]: [ohmyzsh website](https://ohmyz.sh)
-[^6]: [https://github.com/powerline/fonts](https://github.com/powerline/fonts) required for the agnoster theme which is selected in the `.zshrc` file.
-[^7]: [https://github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
-[^8]: [https://github.com/christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
-[^9]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
+[^6]: [https://github.com/powerline/fonts](https://github.com/powerline/fonts) required for the agnoster theme which is selected in the `.zshrc` file. Note, this and the remaining plugins are all just cloned right in to the `~/.vim/pack/plugins/start/`
+[^7]: [https://github.com/christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+[^8]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
+[^9]: [https://github.com/altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 [^10]: [https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
