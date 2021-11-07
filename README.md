@@ -24,8 +24,11 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [x] golang
   - [x] install gvm
   - [x] install latest go
+- [ ] node
+  - [ ] install nvm [^11]
+  - [ ] install latest node
 - [x] symlink dotfiles from this repo into homefolder, for example, from homefolder: `ln -s src/github.com/aprofeit/dotfiles/zshrc .zshrc`
-- [x] install `brew install autojump` [^11]
+- [x] install `brew install autojump` [^12]
 
 # Resources
 [^1]: [Homebrew](https://brew.sh)
@@ -38,4 +41,5 @@ This is a reference for myself or whoever may find it useful for the way I set u
 [^8]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
 [^9]: [https://github.com/altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 [^10]: [https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
-[^11]: [https://github.com/wting/autojump](https://github.com/wting/autojump)
+[^11]: [https://github.com/nvm-sh/nvm#intro](https://github.com/nvm-sh/nvm#intro)
+[^12]: [https://github.com/wting/autojump](https://github.com/wting/autojump)
