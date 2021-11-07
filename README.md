@@ -8,16 +8,16 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [x] install `vim-tmux-navigator`[^3]
 - [x] install `iterm2`[^4]
 - [x] install `brew install tmux``
-  - [x] change profile to use solarized colors
-- [ ] ohmyzsh.sh
+  - [x] change profile to use solarized colors in settings
+- [x] install powerline fonts [^5]
+- [ ] ohmyzsh.sh [^6]
 - [ ] vim
-  - [ ] nerd tree
-  - [ ] fuzzy search
+  - [x] create `~/.tmp/` directory for vim
+  - [x] install vim-tmux-navigator [^8]
   - [ ] solarized theme
-  - [ ] syntax highlighting
-      - [ ] golang
-      - [ ] ruby
-      - [ ] javascript
+  - [ ] nerd tree
+  - [ ] install ctrl-p [^9]
+  - [ ] install nerdtree [^10]
 - [ ] ruby
   - [ ] install chruby
   - [ ] install ruby-install
@@ -25,10 +25,15 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [ ] golang
     - [ ] install gvm
     - [ ] install latest go
-- [ ] cool looking prompt
+- [ ] symlink dotfiles from this repo into homefolder
 
 # Resources
 [^1]: [Homebrew](https://brew.sh)
 [^2]: [Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 [^3]: [Github link to repo](https://github.com/christoomey/vim-tmux-navigator)
 [^4]: [iTerm2 website](https://iterm2.com)
+[^5]: [https://github.com/powerline/fonts](https://github.com/powerline/fonts)
+[^6]: [ohmyzsh website](https://ohmyz.sh)
+[^7]: [https://github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
+[^8]: [https://github.com/christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+[^9]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
