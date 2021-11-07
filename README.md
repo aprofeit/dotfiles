@@ -10,8 +10,8 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [x] install `brew install tmux`
   - [x] change profile to use solarized colors in settings
 - [x] ohmyzsh.sh [^5]
-    - [x] install powerline fonts [^6]
-- [ ] vim
+  - [x] install powerline fonts [^6]
+- [x] vim
   - [x] create `~/.tmp/` directory for vim
   - [x] install vim-tmux-navigator [^7]
   - [x] nerdtree [^8]
@@ -22,9 +22,10 @@ This is a reference for myself or whoever may find it useful for the way I set u
   - [x] install ruby-install
   - [x] install latest ruby
 - [x] golang
-    - [x] install gvm
-    - [x] install latest go
+  - [x] install gvm
+  - [x] install latest go
 - [x] symlink dotfiles from this repo into homefolder, for example, from homefolder: `ln -s src/github.com/aprofeit/dotfiles/zshrc .zshrc`
+- [x] install `brew install autojump` [^11]
 
 # Resources
 [^1]: [Homebrew](https://brew.sh)
@@ -37,3 +38,4 @@ This is a reference for myself or whoever may find it useful for the way I set u
 [^8]: [https://github.com/preservim/nerdtree](https://github.com/preservim/nerdtree)
 [^9]: [https://github.com/altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 [^10]: [https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
+[^11]: [https://github.com/wting/autojump](https://github.com/wting/autojump)
