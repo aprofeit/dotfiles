@@ -30,6 +30,10 @@ This is a reference for myself or whoever may find it useful for the way I set u
 - [x] symlink dotfiles from this repo into homefolder, for example, from homefolder: `ln -s src/github.com/aprofeit/dotfiles/zshrc .zshrc`
 - [x] Faster navigation of directories, install `brew install autojump` [^13]
 
+This is the rough guide to provide you a ruby/golang/javascript dev environment that exists solely in the terminal and looks like this
+
+<img width="1512" alt="Screen Shot 2021-11-08 at 12 01 29 AM" src="https://user-images.githubusercontent.com/1313339/140686917-af52e78e-bc32-4548-a26a-973004aecb8b.png">
+
 # Resources
 [^1]: [Homebrew](https://brew.sh)
 [^2]: [iTerm2 website](https://iterm2.com)
