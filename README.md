@@ -30,7 +30,7 @@ This is a reference for myself or whoever may find it useful for the way I set u
   - [x] install latest LTS release `nvm install --lts`
   - [x] install yarn `npm install --global yarn`
 - [x] symlink dotfiles from this repo into homefolder, for example, from homefolder: `ln -s src/github.com/aprofeit/dotfiles/zshrc .zshrc`
-- [x] Faster navigation of directories, install `brew install autojump` [^13]
+- [x] Faster navigation of directories, install `brew install autojump`
 
 This is the rough guide to provide you a ruby/golang/javascript dev environment that exists solely in the terminal and can look like this
 
