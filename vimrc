@@ -21,6 +21,7 @@ Plugin 'preservim/nerdtree'
 Plugin 'kien/ctrlp.vim'
 
 call vundle#end()            " required
+
 filetype plugin indent on    " required
 
 autocmd QuickFixCmdPost [^l]* nested cwindow
