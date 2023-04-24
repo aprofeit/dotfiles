@@ -7,7 +7,6 @@ fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/aprofeit/.oh-my-zsh"
 export DEFAULT_USER="$i(whoami)"
-export PYENV_ROOT="~/.pyenv"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -76,7 +75,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git brew ruby gem golang node nvm pip postgres rails rake python rust tmux xcode chruby)
+plugins=(git brew ruby gem golang node nvm postgres rails rake tmux xcode chruby)
 
 source $ZSH/oh-my-zsh.sh
 
